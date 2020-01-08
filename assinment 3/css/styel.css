@@ -1,0 +1,39 @@
+.menu
+{
+width:960px; 
+background-color:red;
+min-height:40px;	
+}
+.menu ul
+{
+
+}
+.menu ul li
+{
+float: left;
+list-style:none; 
+border-right:1px solid #730505 ;
+border-left:1px solid #cc3222
+
+}
+.menu ul li.frist-child
+{
+border-left:0px solid; 
+}
+.menu ul li:last-child
+{
+border-right:0px solid; 
+
+}
+.menu ul li a
+{
+text-decoration:none;
+padding:10px 15px;
+display:block;
+color: #fff;
+font-family:    	
+}
+.menu ul li a:hover;
+{
+	
+}
